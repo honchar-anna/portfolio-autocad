@@ -15,8 +15,8 @@ This AutoCAD project presents six layout variations for furnishing a real room b
 
 ## 📎 Project Preview
 
-📄 **PDF Output (Layout)**: [View PDF](link-to-your-pdf)  
-📁 **DWG File**: [Download Drawing](link-to-your-dwg)  
+📄 **PDF Output (Layout)**: [View PDF](Room_Furniture_Layouts.pdf)  
+📁 **DWG File**: [Download Drawing](https://autode.sk/3R68tBV)  
 
 ---
 
