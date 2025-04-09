@@ -17,7 +17,7 @@ The model demonstrates fundamental solid modeling techniques and serves as a tra
 ## 📎 Project Preview
 
 📄 **PDF Output (Layout)**: [View PDF](Mechanical%20Connector%20Block-Layout.pdf)  
-📁 **DWG File**: [Download Drawing](https://autode.sk/4ibN1WV)  
+📁 **DWG File**: [View in Autodesk Viewer](https://autode.sk/4ibN1WV)  
 
 ---
 
