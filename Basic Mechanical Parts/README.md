@@ -2,7 +2,7 @@
 
 ## 📌 Overview
 
-This project presents a collection of **9 simple mechanical parts**, each modeled in 3D and then documented with 2D technical drawings using **AutoCAD 2025**. The goal was to practice the full drafting workflow: from 3D solid modeling to creating accurate and readable technical sheets.
+This project presents a collection of **9 simple mechanical parts**, each modeled in 3D and then documented with 2D technical drawings using **AutoCAD 2023**. The goal was to practice the full drafting workflow: from 3D solid modeling to creating accurate and readable technical sheets.
 
 All drawings are collected in a single PDF file. Each sheet includes an isometric 3D view and 2D projections with dimensions, formatted on A4 landscape paper using individual scales for clarity.
 
