@@ -16,12 +16,17 @@ All drawings are collected in a single PDF file. Each sheet includes an isometri
 - ✅ Title block use and layout plotting
 - ✅ Preparing documentation for print or PDF presentation
 
----
+ **Technical Drawing (PDF):** [📄 View PDF](BasicParts.pdf)
 
-## 📎 Files Included
-
-- 📄 `BasicParts.pdf` – Complete drawing set (9 sheets)
-- 📷 `3D Views/` – Optional isometric render previews of each part
+🔹 **3D Model Part1** [🔗 View in Autodesk Viewer](https://autode.sk/400Szxw)  
+🔹 **3D Model Part2** [🔗 View in Autodesk Viewer](https://autode.sk/44rmnEF)  
+🔹 **3D Model Part3** [🔗 View in Autodesk Viewer](https://autode.sk/3Gn4sqS)  
+🔹 **3D Model Part4** [🔗 View in Autodesk Viewer](https://autode.sk/44okIQf)  
+🔹 **3D Model Part5** [🔗 View in Autodesk Viewer](https://autode.sk/4lBZYLX)  
+🔹 **3D Model Part6** [🔗 View in Autodesk Viewer](https://autode.sk/44G4QKi)  
+🔹 **3D Model Part7** [🔗 View in Autodesk Viewer](https://autode.sk/3GqAAty)  
+🔹 **3D Model Part8** [🔗 View in Autodesk Viewer](https://autode.sk/3Tg1nMd)  
+🔹 **3D Model Part9** [🔗 View in Autodesk Viewer](https://autode.sk/3ZZa6pJ)  
 
 ---
 
